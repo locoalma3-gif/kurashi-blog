@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 独自ドメイン決定後、各<loc>を https://YOUR-DOMAIN/ からの絶対URLに置き換えてください -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>/</loc><lastmod>2026-10-15</lastmod></url>
-<url><loc>/articles/miele-dishwasher.html</loc><lastmod>2026-10-15</lastmod></url>
-<url><loc>/about.html</loc><lastmod>2026-10-15</lastmod></url>
-<url><loc>/privacy.html</loc><lastmod>2026-10-15</lastmod></url>
+<url><loc>https://bucolic-twilight-b3c1b9.netlify.app/</loc><lastmod>2026-10-15</lastmod></url>
+<url><loc>https://bucolic-twilight-b3c1b9.netlify.app/articles/miele-dishwasher.html</loc><lastmod>2026-10-15</lastmod></url>
+<url><loc>https://bucolic-twilight-b3c1b9.netlify.app/about.html</loc><lastmod>2026-10-15</lastmod></url>
+<url><loc>https://bucolic-twilight-b3c1b9.netlify.app/privacy.html</loc><lastmod>2026-10-15</lastmod></url>
 </urlset>

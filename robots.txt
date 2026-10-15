@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-# Sitemap: https://YOUR-DOMAIN/sitemap.xml （独自ドメイン決定後に追記）
+Sitemap: https://bucolic-twilight-b3c1b9.netlify.app/sitemap.xml
