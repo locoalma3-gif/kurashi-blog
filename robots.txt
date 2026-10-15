@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Sitemap: https://YOUR-DOMAIN/sitemap.xml （独自ドメイン決定後に追記）
