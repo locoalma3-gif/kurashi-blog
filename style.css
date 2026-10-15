@@ -43,3 +43,5 @@ figure{margin:1.2em 0}
 .aff-btn:hover{background:#9a0000}
 .aff-note{font-size:.78rem;color:var(--muted);margin:0 0 1.4em}
 @media(max-width:420px){.aff-card{flex-direction:column;text-align:center}.aff-btn{display:block}}
+.card img{aspect-ratio:4/3;object-fit:cover}
+.related ul{padding-left:1.2em}
