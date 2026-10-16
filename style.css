@@ -45,3 +45,9 @@ figure{margin:1.2em 0}
 @media(max-width:420px){.aff-card{flex-direction:column;text-align:center}.aff-btn{display:block}}
 .card img{aspect-ratio:4/3;object-fit:cover}
 .related ul{padding-left:1.2em}
+.breadcrumb{font-size:.8rem;color:var(--muted);margin:0 0 10px}
+.breadcrumb a{color:var(--muted)}
+.byline{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:.8rem;color:var(--muted);margin:-.4em 0 1.2em}
+.faq details{border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:8px 0;background:#fffdf9}
+.faq summary{font-weight:700;cursor:pointer}
+.faq details p{margin:.6em 0 0}
