@@ -11,5 +11,5 @@
 
 ## サイト情報
 
-- [プロフィール](https://bucolic-twilight-b3c1b9.netlify.app/about.html): 運営者と家族構成
+- [プロフィール](https://bucolic-twilight-b3c1b9.netlify.app/about.html): 運営者（子育て家族の暮らしノート管理人）のプロフィール。40代夫婦と子ども2人の4人家族、家電選びで重視していること（価格と機能など）
 - [プライバシーポリシー](https://bucolic-twilight-b3c1b9.netlify.app/privacy.html): 広告（アフィリエイト）・Cookie・免責事項

@@ -51,3 +51,6 @@ figure{margin:1.2em 0}
 .faq details{border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:8px 0;background:#fffdf9}
 .faq summary{font-weight:700;cursor:pointer}
 .faq details p{margin:.6em 0 0}
+.author-box{border:1px solid var(--line);border-radius:12px;background:#fffaf5;padding:14px 16px;margin:2em 0 0;font-size:.9rem}
+.author-box p{margin:.3em 0}
+.author-name{font-weight:700}
